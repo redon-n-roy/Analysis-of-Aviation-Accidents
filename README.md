@@ -10,7 +10,7 @@ The project dealt with the analysis of the historical data related to the accide
 * Hive 2.1.0
 * Hadoop 2.7.3
 * Sqoop 1.4.6
-* MySQL
+* MySQL 10.5
 * Git/GitHub  
 
 ## Features
