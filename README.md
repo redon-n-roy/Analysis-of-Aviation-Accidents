@@ -35,6 +35,8 @@ git clone https://github.com/redon-n-roy/Analysis-of-Aviation-Accidents.git
 
 ## Usage
 
+All the queries can be found [here](./Queries/All.md)
+
 To run the hive queries, use the Hive shell
 
 Use the Sqoop commands to load the data into MySQL
