@@ -28,7 +28,10 @@ A few of the insights got from the analysis were:-
 * Download and insatll Hortonworks HDP 2.6.5.
 * Get everything up and runninng.
 * Connect to the system either through the webshell/OpenSSH/PuTTY.
-* Upload all the required files into the local system or clone this repo using `git clone https://github.com/redon-n-roy/Analysis-of-Aviation-Accidents.git`.
+* Upload all the required files into the local system or clone this repo using the following command:-
+```
+git clone https://github.com/redon-n-roy/Analysis-of-Aviation-Accidents.git
+```
 
 ## Usage
 
