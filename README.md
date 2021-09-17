@@ -22,6 +22,8 @@ A few of the insights got from the analysis were:-
 * What phase resulted in fatal accidents?
 
 ## Getting Started
+
+> All the operations below are for Windows OS.
    
 * Make sure that the virtualization is enabled for your system from the BIOS.
 * Install VMware Workshation Player.
@@ -32,6 +34,8 @@ A few of the insights got from the analysis were:-
 ```
 git clone https://github.com/redon-n-roy/Analysis-of-Aviation-Accidents.git
 ```
+> For linux, install all the dependencies and then run the project from the command-line.
+
 
 ## Usage
 
