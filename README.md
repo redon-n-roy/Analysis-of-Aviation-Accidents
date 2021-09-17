@@ -45,7 +45,7 @@ To run the MySQL queries, use the MySQL shell
 
 # License
 
- This project uses the MIT license.
+ This project uses the [MIT](./LICENSE) license.
 
 # References
  [Dataset](https://www.kaggle.com/prathamsharma123/aviation-accidents-and-incidents-ntsb-faa-waas)
